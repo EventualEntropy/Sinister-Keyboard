@@ -148,7 +148,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Sinister.kicad_pro",
+    "filename": "sinister.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -207,7 +207,7 @@
   },
   "sheets": [
     [
-      "82f4be91-2d99-4f55-b04b-7b9e5b7affd6",
+      "74278d22-7c27-4307-b33e-fc635dc81fca",
       ""
     ]
   ],

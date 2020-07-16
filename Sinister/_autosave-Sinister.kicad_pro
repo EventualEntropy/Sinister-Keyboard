@@ -99,13 +99,10 @@
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "solder_paste_clearance": 0.0,
-        "solder_paste_margin_ratio": -0.0
+        "solder_paste_margin_ratio": 0.0
       },
       "track_widths": [
-        0.25,
-        0.254,
-        0.3048,
-        0.4572
+        0.25
       ],
       "via_dimensions": [
         {
@@ -121,183 +118,12 @@
   "cvpcb": {
     "equivalence_files": []
   },
-  "erc": {
-    "meta": {
-      "version": 0
-    },
-    "pin_map": [
-      [
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        2
-      ],
-      [
-        0,
-        2,
-        0,
-        1,
-        0,
-        1,
-        0,
-        2,
-        2,
-        2,
-        2
-      ],
-      [
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        1,
-        0,
-        1,
-        2
-      ],
-      [
-        0,
-        1,
-        0,
-        0,
-        0,
-        1,
-        1,
-        2,
-        1,
-        1,
-        2
-      ],
-      [
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        2
-      ],
-      [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        2
-      ],
-      [
-        0,
-        0,
-        0,
-        1,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        2
-      ],
-      [
-        0,
-        2,
-        1,
-        2,
-        0,
-        1,
-        0,
-        2,
-        2,
-        2,
-        2
-      ],
-      [
-        0,
-        2,
-        0,
-        1,
-        0,
-        1,
-        0,
-        2,
-        0,
-        0,
-        2
-      ],
-      [
-        0,
-        2,
-        1,
-        1,
-        0,
-        1,
-        0,
-        2,
-        0,
-        0,
-        2
-      ],
-      [
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2
-      ]
-    ],
-    "rule_severities": {
-      "bus_definition_conflict": "error",
-      "bus_label_syntax": "error",
-      "bus_to_bus_conflict": "error",
-      "bus_to_net_conflict": "error",
-      "different_unit_footprint": "error",
-      "different_unit_net": "error",
-      "duplicate_sheet_names": "error",
-      "global_label_dangling": "error",
-      "hier_label_mismatch": "error",
-      "label_dangling": "error",
-      "multiple_net_names": "error",
-      "net_not_bus_member": "error",
-      "no_connect_connected": "error",
-      "no_connect_dangling": "error",
-      "pin_not_connected": "error",
-      "pin_not_driven": "error",
-      "pin_to_pin": "error",
-      "similar_labels": "error",
-      "unresolved_variable": "error"
-    }
-  },
   "libraries": {
     "pinned_footprint_libs": [],
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Sinister.kicad_pro",
+    "filename": "_autosave-Sinister.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -319,38 +145,9 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "drawing": {
-      "default_bus_thickness": 12.0,
-      "default_junction_size": 12.0,
-      "default_line_thickness": 6.0,
-      "default_text_size": 50.0,
-      "default_wire_thickness": 6.0,
-      "field_names": [],
-      "pin_symbol_size": 25.0,
-      "text_offset_ratio": 0.3
-    },
     "legacy_lib_dir": "",
-    "legacy_lib_list": [],
-    "meta": {
-      "version": 0
-    },
-    "net_format_name": "",
-    "page_layout_descr_file": "",
-    "plot_directory": "",
-    "spice_adjust_passive_values": false,
-    "subpart_first_id": 65,
-    "subpart_id_separator": 0
+    "legacy_lib_list": []
   },
-  "sheets": [
-    [
-      "ade4b74f-4db9-4398-9a3f-d0a16024e35e",
-      ""
-    ]
-  ],
-  "text_variables": {
-    "LCSC Part Number": "",
-    "Manufacturer": "",
-    "Manufacturer Part Numer": "",
-    "Package": ""
-  }
+  "sheets": [],
+  "text_variables": {}
 }

@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -52,10 +52,10 @@
       33,
       34
     ],
-    "visible_layers": "6fbff_ffffffff"
+    "visible_layers": "7ffff_ffffffff"
   },
   "meta": {
-    "filename": "Sinister.kicad_prl",
+    "filename": "_autosave-Sinister.kicad_prl",
     "version": 1
   }
 }

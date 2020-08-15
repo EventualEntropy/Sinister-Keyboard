@@ -1,4 +1,4 @@
-18976864032733772
+19025601627413593
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -25978,92 +25978,92 @@ phoenix_contact connector MSTB_01x16_GF_5.00mm_MH
 16
 Connector_Pin
 Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork
-solder Pin_{brace}brace}brace}brace}brace}space}with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm
-solder Pin_{brace}brace}brace}brace}brace}space}with flat fork
+solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm
+solder Pin_ with flat fork
 0
 1
 1
 Connector_Pin
 Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork
-solder Pin_{brace}brace}brace}brace}brace}space}with flat fork, hole diameter 0.9mm, length 10.0mm, width 2.4mm
-solder Pin_{brace}brace}brace}brace}brace}space}with flat fork
+solder Pin_ with flat fork, hole diameter 0.9mm, length 10.0mm, width 2.4mm
+solder Pin_ with flat fork
 0
 1
 1
 Connector_Pin
 Pin_D1.0mm_L10.0mm
-solder Pin_{brace}brace}brace}brace}brace}space}diameter 1.0mm, hole diameter 1.0mm (press fit), length 10.0mm
-solder Pin_{brace}brace}brace}brace}brace}space}press fit
+solder Pin_ diameter 1.0mm, hole diameter 1.0mm (press fit), length 10.0mm
+solder Pin_ press fit
 0
 1
 1
 Connector_Pin
 Pin_D1.0mm_L10.0mm_LooseFit
-solder Pin_{brace}brace}brace}brace}brace}space}diameter 1.0mm, hole diameter 1.2mm (loose fit), length 10.0mm
-solder Pin_{brace}brace}brace}brace}brace}space}loose fit
+solder Pin_ diameter 1.0mm, hole diameter 1.2mm (loose fit), length 10.0mm
+solder Pin_ loose fit
 0
 1
 1
 Connector_Pin
 Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork
-solder Pin_{brace}brace}brace}brace}brace}space}with flat fork, hole diameter 1.1mm, length 8.5mm, width 2.5mm
-solder Pin_{brace}brace}brace}brace}brace}space}with flat fork
+solder Pin_ with flat fork, hole diameter 1.1mm, length 8.5mm, width 2.5mm
+solder Pin_ with flat fork
 0
 1
 1
 Connector_Pin
 Pin_D1.1mm_L10.2mm_W3.5mm_Flat
-solder Pin_{brace}brace}brace}brace}brace}space}with flat with hole, hole diameter 1.1mm, length 10.2mm, width 3.5mm
-solder Pin_{brace}brace}brace}brace}brace}space}with flat fork
+solder Pin_ with flat with hole, hole diameter 1.1mm, length 10.2mm, width 3.5mm
+solder Pin_ with flat fork
 0
 1
 1
 Connector_Pin
 Pin_D1.2mm_L10.2mm_W2.9mm_FlatFork
-solder Pin_{brace}brace}brace}brace}brace}space}with flat with fork, hole diameter 1.2mm, length 11.3mm, width 3.0mm
-solder Pin_{brace}brace}brace}brace}brace}space}with flat fork
+solder Pin_ with flat with fork, hole diameter 1.2mm, length 11.3mm, width 3.0mm
+solder Pin_ with flat fork
 0
 1
 1
 Connector_Pin
 Pin_D1.2mm_L11.3mm_W3.0mm_Flat
-solder Pin_{brace}brace}brace}brace}brace}space}with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm
-solder Pin_{brace}brace}brace}brace}brace}space}with flat fork
+solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm
+solder Pin_ with flat fork
 0
 1
 1
 Connector_Pin
 Pin_D1.3mm_L10.0mm_W3.5mm_Flat
-solder Pin_{brace}brace}brace}brace}brace}space}with flat with hole, hole diameter 1.3mm, length 10.0mm, width 3.5mm, e.g. Ettinger 13.13.865, https://katalog.ettinger.de/#p=434
-solder Pin_{brace}brace}brace}brace}brace}space}with flat fork
+solder Pin_ with flat with hole, hole diameter 1.3mm, length 10.0mm, width 3.5mm, e.g. Ettinger 13.13.865, https://katalog.ettinger.de/#p=434
+solder Pin_ with flat fork
 0
 1
 1
 Connector_Pin
 Pin_D1.3mm_L11.0mm
-solder Pin_{brace}brace}brace}brace}brace}space}diameter 1.3mm, hole diameter 1.3mm, length 11.0mm
-solder Pin_{brace}brace}brace}brace}brace}space}pressfit
+solder Pin_ diameter 1.3mm, hole diameter 1.3mm, length 11.0mm
+solder Pin_ pressfit
 0
 1
 1
 Connector_Pin
 Pin_D1.3mm_L11.0mm_LooseFit
-solder Pin_{brace}brace}brace}brace}brace}space}diameter 1.3mm, hole diameter 1.5mm (loose fit), length 11.0mm
-solder Pin_{brace}brace}brace}brace}brace}space}loose fit
+solder Pin_ diameter 1.3mm, hole diameter 1.5mm (loose fit), length 11.0mm
+solder Pin_ loose fit
 0
 1
 1
 Connector_Pin
 Pin_D1.3mm_L11.3mm_W2.8mm_Flat
-solder Pin_{brace}brace}brace}brace}brace}space}with flat with hole, hole diameter 1.3mm, length 11.3mm, width 2.8mm
-solder Pin_{brace}brace}brace}brace}brace}space}with flat fork
+solder Pin_ with flat with hole, hole diameter 1.3mm, length 11.3mm, width 2.8mm
+solder Pin_ with flat fork
 0
 1
 1
 Connector_Pin
 Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork
-solder Pin_{brace}brace}brace}brace}brace}space}with flat with fork, hole diameter 1.4mm, length 8.5mm, width 2.8mm, e.g. Ettinger 13.13.890, https://katalog.ettinger.de/#p=434
-solder Pin_{brace}brace}brace}brace}brace}space}with flat fork
+solder Pin_ with flat with fork, hole diameter 1.4mm, length 8.5mm, width 2.8mm, e.g. Ettinger 13.13.890, https://katalog.ettinger.de/#p=434
+solder Pin_ with flat fork
 0
 1
 1
@@ -44527,6 +44527,13 @@ USB Micro B horizontal
 9
 6
 Connector_USB
+USB_Micro-B_Amphenol_10118194_Horizontal
+USB Micro-B receptacle, horizontal, SMD, 10118194, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf
+USB Micro B horizontal SMD
+0
+17
+6
+Connector_USB
 USB_Micro-B_GCT_USB3076-30-A
 GCT Micro USB https://gct.co/files/drawings/usb3076.pdf
 Micro-USB SMD Typ-B GCT
@@ -49875,6 +49882,27 @@ Diode DO-201 series Axial Horizontal pin pitch 15.24mm  length 9.53mm diameter 5
 2
 2
 Diode_THT
+D_DO-247_Horizontal_TabDown
+Diode, DO-247 series, Horizontal, TabDown, P 10.9mm
+diode rectifier
+0
+2
+2
+Diode_THT
+D_DO-247_Horizontal_TabUp
+Diode, DO-247 series, Horizontal, TabUp, P 10.9mm
+diode rectifier
+0
+2
+2
+Diode_THT
+D_DO-247_Vertical
+Diode, DO-247 series, Vertical, P 10.9mm
+diode rectifier
+0
+2
+2
+Diode_THT
 D_P600_R-6_P7.62mm_Vertical_AnodeUp
 Diode, P600_R-6 series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9.1*9.1mm^2, , http://www.vishay.com/docs/88692/p600a.pdf, http://www.diodes.com/_files/packages/R-6.pdf
 Diode P600_R-6 series Axial Vertical pin pitch 7.62mm  length 9.1mm diameter 9.1mm
@@ -50007,6 +50035,13 @@ DIL DIP PDIP 5.08mm 7.62mm 300mil
 0
 4
 4
+Diode_THT
+Diode_Bridge_IXYS_GUFP
+Three phase, Bridge, Rectifier
+diode module
+0
+5
+5
 Diode_THT
 Diode_Bridge_Round_D8.9mm
 4-lead round diode bridge package, diameter 8.9mm, pin pitch 5.08mm, see http://cdn-reichelt.de/documents/datenblatt/A400/W005M-W10M_SEP.PDF
@@ -50294,6 +50329,13 @@ NHD-C0220BiZ LCD
 0
 10
 10
+Display
+OLED-128O064D
+128x64 OLED display
+display oled
+0
+30
+30
 Display
 RC1602A
 http://www.raystar-optronics.com/down.php?ProID=18
@@ -59647,6 +59689,13 @@ DFN 0.5
 13
 9
 Package_DFN_QFN
+DFN-8-1EP_3x2mm_P0.5mm_EP1.7x1.4mm
+DFN, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/8L_DFN_2x3x0_9_MC_C04-123C.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+13
+9
+Package_DFN_QFN
 DFN-8-1EP_3x2mm_P0.5mm_EP1.36x1.46mm
 8-Lead Plastic Dual Flat, No Lead Package (8MA2) - 2x3x0.6 mm Body (http://ww1.microchip.com/downloads/en/DeviceDoc/20005010F.pdf)
 DFN 0.5
@@ -59954,6 +60003,13 @@ UDFN-10 U-DFN2510-10 Diodes
 0
 10
 10
+Package_DFN_QFN
+Diodes_UDFN2020-6_Type-F
+U-DFN2020-6 (Type F) (https://www.diodes.com/assets/Package-Files/U-DFN2020-6-Type-F.pdf) 
+U-DFN2020-6 (Type F)
+0
+8
+8
 Package_DFN_QFN
 HVQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm
 HVQFN, 24 Pin (https://www.nxp.com/docs/en/package-information/SOT616-3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -61683,6 +61739,20 @@ DFN
 0
 12
 12
+Package_DFN_QFN
+TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm
+TDFN, 14 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0137.PDF (T1433-2C)), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+19
+15
+Package_DFN_QFN
+TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm_ThermalVias
+TDFN, 14 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0137.PDF (T1433-2C)), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+26
+15
 Package_DFN_QFN
 TQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm
 TQFN, 16 Pin (https://www.diodes.com/assets/Datasheets/PI6C5946002.pdf#page=12), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -67732,6 +67802,13 @@ huson nolead SOT1061
 4
 3
 Package_SON
+HVSON-8-1EP_3x3mm_P0.65mm_EP1.6x2.4mm
+HVSON, 8 Pin (https://www.nxp.com/docs/en/data-sheet/TJA1051.pdf#page=16), generated with kicad-footprint-generator ipc_noLead_generator.py
+HVSON NoLead
+0
+13
+9
+Package_SON
 HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm
 HVSON, 8 Pin (https://www.nxp.com/docs/en/data-sheet/PCF8523.pdf (page 57)), generated with kicad-footprint-generator ipc_noLead_generator.py
 HVSON NoLead
@@ -67922,7 +67999,7 @@ X2SON
 5
 Package_SON
 USON-10_2.5x1.0mm_P0.5mm
-USON-10 2.5x1.0mm_{brace}brace}brace}brace}brace}space}Pitch 0.5mm http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
+USON-10 2.5x1.0mm_ Pitch 0.5mm http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
 USON-10 2.5x1.0mm Pitch 0.5mm
 0
 10
@@ -81292,7 +81369,7 @@ UQFN DFN_QFN
 49
 acheron_Components
 USON-10_2.5x1.0mm_P0.5mm
-USON-10 2.5x1.0mm_{brace}brace}brace}brace}brace}space}Pitch 0.5mm http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
+USON-10 2.5x1.0mm_ Pitch 0.5mm http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
 USON-10 2.5x1.0mm Pitch 0.5mm
 0
 10
@@ -81577,6 +81654,13 @@ USB_MiniB_XM7D-0512
 0
 18
 6
+acheron_Graphics
+Logo
+
+
+0
+53
+53
 acheron_Graphics
 brazilFlag
 

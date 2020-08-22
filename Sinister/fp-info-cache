@@ -1,4 +1,4 @@
-19028796858283284
+19031993231754367
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -81144,6 +81144,13 @@ SMD SMT crystal
 4
 4
 acheron_Components
+DPAK229P990X238-3N
+
+
+0
+3
+3
+acheron_Components
 D_DO-35_SOD27_P7.62mm
 Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
 Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
@@ -81374,6 +81381,13 @@ USON-10 2.5x1.0mm Pitch 0.5mm
 0
 10
 10
+acheron_Connectors
+CUI_PJ-036C
+
+
+0
+3
+3
 acheron_Connectors
 Conn_ARM_JTAG_SWD_10
 Through hole straight pin header, 1x14, 2.54mm pitch, single row
@@ -81673,8 +81687,8 @@ SinLogo
 
 
 0
-64
-64
+63
+63
 acheron_Graphics
 brazilFlag
 
